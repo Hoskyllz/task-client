@@ -1,0 +1,112 @@
+@import url('https://fonts.googleapis.com/css2?family=Signika+Negative:wght@400;500&display=swap');
+
+.green{
+    color: green;
+}
+.red{
+    color: red;
+}
+.blue-text {
+    color: #974FD0;
+}
+.blue-bg {
+    background-color: #974FD0;
+    border: none;
+    border-radius: 10px;
+    color: white;
+}
+
+.btn1 {
+    border: none;
+    outline: none;
+    width: 146px;
+    border-radius: 10px;
+}
+.add {
+    color: purple;
+}
+
+.edit-btn {
+    width: 126px;
+    height: 50px;
+    background-color: #974FD0;
+    color: white;
+    border-radius: 8px;
+    border: none;
+}
+
+.del-btn {
+    width: 151px;
+    height: 50px;
+    border-radius: 8px;
+    background-color: white;
+    color: #974FD0;
+    border-color: #974FD0;
+}
+
+
+.line {
+    width: 95%;
+
+}
+
+.task-box {
+    width: 100%;
+    height: 287px;
+    border-radius: 10px;
+}
+
+.back {
+    color: #974FD0;
+}
+
+.title-input {
+    width: 100%;
+    height: 102px;
+    display: inline-block;
+    outline: none;
+}
+
+.Task-header {
+    position: relative;
+    top: 20px;
+}
+
+.area {
+    width: 100%;
+    outline: none;
+}
+
+.select-option {
+    width: 100%;
+    height: 102px;
+    outline: none;
+}
+
+.form-done {
+    width: 100%;
+    height: 84px;
+    background-color: #974FD0;
+    color: white;
+    border-radius: 8px;
+    border: none;
+}
+.updatebtn {
+    width: Hug (126px);
+    height: Hug (50px);
+    background: #974FD0;
+    padding: 10px 25px 10px 25px;
+    border-radius: 8px;
+    gap: 10px;
+}
+
+.delbtn {
+    width: Hug (151px);
+    height: Hug (50px);
+    padding: 10px 25px 10px 25px;
+    border-radius: 8px;
+    border: 1px;
+    gap: 10px;
+    color: #974FD0;
+    border: 1px solid #974FD0
+}
